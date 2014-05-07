@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#4f4f4f</color>
+    <color name="gray">#929292</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#ff024c95</color>
+    <color name="gray_light">#D6DBE7</color>
+    <color name="orange">#f57f1b</color>
+    <color name="red">#f63d29</color>
+    <color name="yellow">#ffc52c</color>
+    <color name="blue_laba">#4291ce</color>
+    <color name="green">#8fa624</color>
+    <color name="transparent">#00000000</color>
+    <color name="backColor">#2000</color>
+    <color name="detail_bgColor">#f5f5f5</color>
+    <color name="defaultTextColor">#666</color>
+    <color name="gray_black">#2e2e2e</color>
+    <color name="dim_gray">#11666666</color>
+    <color name="bg_pay">#e8e8e6</color>
+    <color name="bg_calendar">#f4f5ed</color>
+    <color name="bg_bottomll">#bb2a2a2a</color>
+    <color name="transcurent">#8000</color>
+    <color name="bg">#eeeeee</color>
+    <color name="tishi">#f16a4c</color>
+    <color name="blue_qian">#5a8bb3</color>
+    <color name="blue_askmanage">#0367ff</color>
+    
+
+    <!-- 灰色 - 半透明 -->
+    <color name="gray_translucent">#80969696</color>
+
+    <drawable name="image_load">#f0f0f0</drawable>
+    
+    <color name="bottom_white">#eef0f0f0</color>
+    <color name="bottom_blue">#ee0068ff</color>
+    
+
+</resources>

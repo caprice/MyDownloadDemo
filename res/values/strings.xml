@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyDownloadDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="wifi_required_title">"文件太大，不适于通过运营商网络下载"</string>
+    <string name="wifi_recommended_title">"稍后再加入下载队列吗？"</string>
+    <string name="button_queue_for_wifi">"排队"</string>
+    <string name="button_cancel_download">"取消"</string>
+    <string name="button_start_now">"立即开始"</string>
+    <string name="notification_need_wifi_for_size">"此大小的文件需要通过 Wi-Fi 下载"</string>
+    <string name="notification_download_complete">"下载完成"</string>
+    <string name="notification_download_failed">"下载失败"</string>
+    <string name="notification_filename_separator">", "</string>
+    <string name="download_unknown_title">"&lt;未命名&gt;"</string>
+    <string name="wifi_required_body">"您必须使用 Wi-Fi才能完成此 %1$s文件的下载。"\n\n"点击%2$s可在下次连接到 Wi-Fi 网络时开始此下载。"</string>
+    <string name="wifi_recommended_body">立即开始此%1$s文件的下载可能会缩短电池的使用时间并/或导致超额使用移动数据连接（这会导致移动运营商依照流量套餐中的超额规定向您收费）。\n\n点击下面的%2$s可在下次连接到 Wi-Fi 网络时开始此下载。</string>
+    <string name="notification_filename_extras">"还有%1$s项"</string>
+    
+    <string name="download_remain_bytes">剩余%1$s%2$s</string>
+
+</resources>
